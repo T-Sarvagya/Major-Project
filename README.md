@@ -1,0 +1,1 @@
+WanderStay is a full-stack web application designed to provide users with an intuitive and user-friendly platform to browse, book, and manage accommodations. The platform incorporates essential features such as user authentication, booking management, and a responsive design, ensuring an engaging user experience across devices.
